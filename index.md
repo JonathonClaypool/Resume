@@ -33,6 +33,7 @@ scripting.
 **●** Android development
 
 **●** Python scripting and development
+
 **●** Server Side development + architecture design
 
 **●** Object Oriented Software design patterns and
@@ -40,7 +41,7 @@ architecture
 
 **●** ASP .NET application architecture and design patterns
 
-**●** C# .net core (cli) and ASP framework
+**●** C# .net core (cli) and language features
 
 **●** Native Tizen wearable development (C)/c++
 
