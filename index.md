@@ -1,7 +1,7 @@
 <!-- Jonathon Claypool
 === -->
 # Jonathon Claypool
-
+<br />
 
 ## SUMMARY
 Has hands-on development experience in a startup culture, with experience in backend, frontend, and database
@@ -81,8 +81,8 @@ Games API calls to gather data.
 
 
 ##### [Contact Me](jonathon@claypools.org)
-4241 44th ave s, Minneapolis MN, 55406
-jonathon@claypools.org
-651-2805141
+4241 44th ave s, Minneapolis MN, 55406 <br />
+jonathon@claypools.org <br />
+651-2805141 <br />
 
 
