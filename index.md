@@ -80,9 +80,9 @@ Games API calls to gather data.
 651-280-
 
 
-##### Contact Me
+##### [Contact Me](jonathon@claypools.org)
 4241 44th ave s, Minneapolis MN, 55406
-
+jonathon@claypools.org
 651-2805141
 
 
