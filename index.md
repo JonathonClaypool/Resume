@@ -21,6 +21,7 @@ Bachelor of arts, Computer Science.
 **●** Very familiar with Java and related tools and
 libraries such as Gradle, Spring, thread
 execution, etc
+
 **●** SQL and relational database design and
 usage, stored procs, etc.
 
