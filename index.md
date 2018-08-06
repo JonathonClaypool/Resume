@@ -1,5 +1,3 @@
-<!-- Jonathon Claypool
-=== -->
 # Jonathon Claypool
 <br />
 
@@ -49,9 +47,6 @@ architecture
 
 **●** Experienced with Microsoft Azure Iaas and
 microservice architecture and Docker.
-4241 44th ave S, Minneapolis, MN, 55406
-651-280-
-
 
 ## MAJOR PROJECTS AS PRIMARY LEAD
 #### Personal emergency response Dashboard and Backend (2017+)
@@ -77,8 +72,6 @@ Lighting, and behavioral algorithms, as well as procedural map generation.
 #### League of Legends Draft App (2014)
 A web based application using Meteor that allows users to determine which champion to play. Makes use of Riot
 Games API calls to gather data.
-4241 44th ave S, Minneapolis, MN, 55406
-651-280-
 
 
 ##### [Contact Me](jonathon@claypools.org)
