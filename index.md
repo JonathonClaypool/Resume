@@ -1,6 +1,6 @@
 <!-- Jonathon Claypool
 === -->
-#Jonathon Claypool Resume
+# Jonathon Claypool Resume
 
 ## SUMMARY
 Has hands-on development experience in a startup culture, with experience in backend, frontend, and database
