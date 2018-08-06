@@ -10,7 +10,7 @@ and motivated to ‘drink from the firehose’. Loves learning new things, seeks
 books/articles on engineering best practices and computer science concepts, as well as designing and developing
 games.
 ## WORK EXPERIENCE
-*Software Engineer, Reemo Health, Minneapolis, MN — 2016-**
+*Software Engineer, Reemo Health, Minneapolis, MN — 2016-present*
 Software Engineer for Reemo Health. Extensive experience working on and designing all aspects of the tech stack,
 helping to architect our solutions, as well as an introduction to business and management skills.
 
