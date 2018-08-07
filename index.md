@@ -1,12 +1,9 @@
-# Jonathon Claypool
-
 
 ## SUMMARY
 Has hands-on development experience in a startup culture, with experience in backend, frontend, and database
 development. Excels at quickly learning new material, problem solving and independent learning. A self starter, able
 and motivated to ‘drink from the firehose’. Loves learning new things, seeks to constantly expand knowledge by reading
-books/articles on engineering best practices and computer science concepts, as well as designing and developing
-games.
+books/articles on engineering best practices and computer science concepts, as well as designing and developing games.
 ## WORK EXPERIENCE
 *Software Engineer, Reemo Health, Minneapolis, MN — 2016-present*
 Software Engineer for Reemo Health. Extensive experience working on and designing all aspects of the tech stack,
