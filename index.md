@@ -64,8 +64,7 @@ into the inner workings of Tizen’s project manifest and structure. Required de
 process, and the tizen cli certificate signature process. The technology is bleeding edge and not as widely adopted, so
 reference material is scarce.
 #### Reemo Android app (2016)
-Responsible for the construction and maintenance of the Reemo Android Application. Hands on, drinking from the
-firehose experience. Usage of newer android application frameworks such as dagger dependency injection.
+Responsible for the construction and maintenance of the Reemo Android Application, including UI and backend pieces. Usage of newer android application frameworks such as dagger dependency injection.
 #### Orthographic RogueLike (2016+)
 Creation of a tile based adventure game similar to the classic Rogue. Uses different algorithms including A* pathfinding
 Lighting, and behavioral algorithms, as well as procedural map generation.
