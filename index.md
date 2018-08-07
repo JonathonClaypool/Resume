@@ -5,17 +5,17 @@ development. Excels at quickly learning new material, problem solving and indepe
 and motivated to ‘drink from the firehose’. Loves learning new things, seeks to constantly expand knowledge by reading
 books/articles on engineering best practices and computer science concepts, as well as designing and developing games.
 ## WORK EXPERIENCE
-*Software Engineer, Reemo Health, Minneapolis, MN — 2016-present*
+*Software Engineer, Reemo Health, Minneapolis, MN — 2016-present* <br/>
 Software Engineer for Reemo Health. Extensive experience working on and designing all aspects of the tech stack,
 helping to architect our solutions, as well as an introduction to business and management skills.
 
-*Internship, Wolters Kluwer, Minneapolis, MN — 2014*
+*Internship, Wolters Kluwer, Minneapolis, MN — 2014* <br/>
 Summer internship at Wolters Kluwer editing and modifying database entrees.
 ## EDUCATION
-*Gustavus Adolphus, St. Peter​, ​MN​ — ​ 2012 ​-​ 2016*
+*Gustavus Adolphus, St. Peter​, ​MN​ — ​ 2012 ​-​ 2016* <br/>
 Bachelor of arts, Computer Science.
 ## TECHNICAL SKILLS
-**●** Very familiar with Java and related tools and
+**●** Java and related tools and
 libraries such as Gradle, Spring, thread
 execution, etc
 
@@ -46,7 +46,7 @@ architecture
 microservice architecture and Docker.
 
 ## MAJOR PROJECTS AS PRIMARY LEAD
-#### Personal emergency response Dashboard and Backend (2017+)
+#### Personal Emergency Response Dashboard and Backend (2017+)
 Call center representatives receiving emergency calls via the Reemo solution would navigate to the dashboard for real
 time wearer updates. UI implemented in Angular 5, while backend implemented using Java spring. Required heavy
 interfacing with the monitoring companies’ systems, as well as 3rd party APIs for latest jurisdictional emergency
@@ -73,6 +73,6 @@ Games API calls to gather data.
 ##### [Contact Me](jonathon@claypools.org)
 4241 44th ave s, Minneapolis MN, 55406 <br />
 jonathon@claypools.org <br />
-651-2805141 <br />
+651-280-5141 <br />
 
 
