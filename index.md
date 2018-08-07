@@ -1,6 +1,6 @@
 <!-- # Jonathon Claypool -->
 ## SUMMARY
-Has hands-on development experience in a startup culture, with experience in backend, frontend, and database
+Has hands-on software development experience in a startup culture, with experience in backend, frontend, and database
 development. Excels at quickly learning new material, problem solving and independent learning. A self starter, able
 and motivated to ‘drink from the firehose’. Loves learning new things, seeks to constantly expand knowledge by reading
 books/articles on engineering best practices and computer science concepts, as well as designing and developing games.
@@ -60,7 +60,7 @@ A backend utility to automate build packages for Reemo with continuous integrati
 into the inner workings of Tizen’s project manifest and structure. Required deeper investigation of the Tizen compilation
 process, and the tizen cli certificate signature process. The technology is bleeding edge and not as widely adopted, so
 reference material is scarce.
-#### Reemo Android app (2016)
+#### Reemo Android App (2016)
 Responsible for the construction and maintenance of the Reemo Android Application, including UI, the backend, and usage of newer android application frameworks such as dagger dependency injection.
 #### Orthographic RogueLike (2016+)
 Creation of a tile based adventure game similar to the classic Rogue. Uses different algorithms including A* pathfinding
