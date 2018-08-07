@@ -1,4 +1,4 @@
-
+<!-- # Jonathon Claypool -->
 ## SUMMARY
 Has hands-on development experience in a startup culture, with experience in backend, frontend, and database
 development. Excels at quickly learning new material, problem solving and independent learning. A self starter, able
