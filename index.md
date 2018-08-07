@@ -1,4 +1,4 @@
-# Jonathon Claypool
+# Resume
 <br />
 
 ## SUMMARY
